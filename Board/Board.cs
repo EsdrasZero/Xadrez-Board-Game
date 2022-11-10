@@ -28,7 +28,7 @@ namespace board
         {
             if (thereAPiece(pos))
             {
-                throw new BoardException("There is already a piece in that positionAlre");
+                throw new BoardException("There is already a piece in that position");
             }
             pieces[pos.line, pos.column] = p;
             p.position = pos;

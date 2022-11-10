@@ -13,7 +13,7 @@ class Screen {
     Console.WriteLine("Current turn: " + game.turn);
     Console.WriteLine("Waiting player: " + game.currentPlayer); 
     if(game.check) {
-      Console.WriteLine("XEQUE!");
+      Console.WriteLine("CHECK!");
     }
   }
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/xadrez-lucas/main.csproj",
+      "projectUniqueName": "/home/runner/Xadrez-Board-Game/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/xadrez-lucas/main.csproj",
+      "projectPath": "/home/runner/Xadrez-Board-Game/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/xadrez-lucas/obj/",
+      "outputPath": "/home/runner/Xadrez-Board-Game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"

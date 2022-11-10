@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlnFZ3kWA10YnxuuecJkUMKzYgEl5xcOD7SxnGGypTw47praZG13UgIqQhIQxaEh/YRqfGrqwzDkC1OTY52e5Q==",
+  "dgSpecHash": "im1WUm9SbjLRXt4HT6ryDV03C3HmRn30TddV2jvrXojwo912tM60K12l9Lf+JmP6QxNHsYLGa7MTSSWSp1t0rg==",
   "success": true,
-  "projectFilePath": "/home/runner/xadrez-lucas/main.csproj",
+  "projectFilePath": "/home/runner/Xadrez-Board-Game/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

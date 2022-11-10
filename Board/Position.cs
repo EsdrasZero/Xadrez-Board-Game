@@ -1,6 +1,5 @@
 namespace board {
   class Position {
-    // {get; set} -> encapsulamento, indica que pode ser acessado e alterados por outras classes
     public int line {get; set;}
     public int column {get; set;}
 

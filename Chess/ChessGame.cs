@@ -14,7 +14,6 @@ namespace chess
         public bool check { get; private set; }
         public Piece vulnerablePieceEnPassant { get; private set; }
 
-
         public ChessGame()
         {
             board = new Board(8, 8);
